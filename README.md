@@ -1,6 +1,5 @@
 # baseball-game-with-GUI
 
---------------------------
 
 ### java와 jdbc 연동을 통한 숫자 야구 게임을 구현
 
