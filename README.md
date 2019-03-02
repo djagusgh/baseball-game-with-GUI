@@ -1,7 +1,7 @@
 # baseball-game-with-GUI
 
 
-### java와 jdbc 연동을 통한 숫자 야구 게임 구현 (상세 : pdf 파일로 확인 가능)
+### java와 jdbc 연동을 통한 숫자 야구 게임 구현 (상세 : team10_숫자야구게임pdf 파일로 확인 가능)
 
 #### 주요 기능
 
